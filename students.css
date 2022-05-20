@@ -1,0 +1,30 @@
+body {
+    margin: 50px;
+    background-color: antiquewhite;
+   background-repeat: repeat-x;
+ }
+ 
+h1{
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+
+ table{
+     color: black;
+     margin: auto;
+     text-align: center;
+ }
+
+ p {
+     margin: auto;
+     font-style: italic;
+     font-size: 30px;
+     color: rgb(189, 150, 187);
+ }
+ 
+ div {
+ margin: auto;
+ 
+ }
+ 

@@ -1,0 +1,30 @@
+body {
+   margin: 200px 0;
+   background-image: url("images/about_1.jpg");
+  background-repeat: repeat-x;
+}
+
+
+p {
+    margin: auto;
+    font-style: italic;
+    font-size: 30px;
+    color: rgb(189, 150, 187);
+}
+
+div {
+margin: auto;
+
+}
+
+h1 {
+  text-decoration: aqua;
+  color: rgb(245, 201, 145);
+
+}
+
+label {
+    font-size: 20px;
+    color: rgb(253, 220, 176);
+
+}
